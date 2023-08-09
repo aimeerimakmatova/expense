@@ -1,0 +1,44 @@
+.form{
+    margin-left: 500px;
+    border: 2px solid rgb(162, 157, 157);
+    width: 400px;
+    height: 240px;
+    padding-top: 20px;
+    background-color: bisque;
+}
+.inp-title{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 350px;
+    height: 25px;
+    margin-left: 20px;
+}
+.inp-price{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 350px;
+    height: 25px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.inp-date{
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 350px;
+    height: 25px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.click-btn{
+    border: 1px solid black;
+
+    border-radius: 15px;
+    width: 350px;
+    height: 25px;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-color: rgb(107, 169, 44);
+}
+.click-btn:active{
+    background-color: rgb(47, 243, 17);
+}
